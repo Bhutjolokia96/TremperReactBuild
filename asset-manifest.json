@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TremperReactBuild/static/css/main.a617e044.chunk.css",
+    "main.js": "/TremperReactBuild/static/js/main.29c553c6.chunk.js",
+    "main.js.map": "/TremperReactBuild/static/js/main.29c553c6.chunk.js.map",
+    "runtime-main.js": "/TremperReactBuild/static/js/runtime-main.22422c16.js",
+    "runtime-main.js.map": "/TremperReactBuild/static/js/runtime-main.22422c16.js.map",
+    "static/js/2.55b7b066.chunk.js": "/TremperReactBuild/static/js/2.55b7b066.chunk.js",
+    "static/js/2.55b7b066.chunk.js.map": "/TremperReactBuild/static/js/2.55b7b066.chunk.js.map",
+    "static/js/3.6d74cbad.chunk.js": "/TremperReactBuild/static/js/3.6d74cbad.chunk.js",
+    "static/js/3.6d74cbad.chunk.js.map": "/TremperReactBuild/static/js/3.6d74cbad.chunk.js.map",
+    "index.html": "/TremperReactBuild/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/TremperReactBuild/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.55b7b066.chunk.js.LICENSE.txt": "/TremperReactBuild/static/js/2.55b7b066.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TremperReactBuild/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22422c16.js",
+    "static/js/2.55b7b066.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.29c553c6.chunk.js"
+  ]
+}
